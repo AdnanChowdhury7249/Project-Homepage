@@ -7,7 +7,8 @@ This project showcases my work, including various projects I’ve completed in J
 
 This portfolio is a single-page website where I showcase a collection of my projects. Each project card includes a description, preview image, and links to the code repository on GitHub. The website is fully responsive and includes interactive elements for enhanced user experience.
 
-Features
+# Features
+
 Dynamic Project Cards: Each project card displays project information, including title, description, and an image.
 Responsive Design: The website is fully responsive and optimized for various screen sizes.
 Interactive Hover Effects: Project cards have animations for better user interaction.
